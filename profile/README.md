@@ -1,0 +1,3 @@
+# Advent of Code Solutions Repository
+
+Welcome to the Advent of Code Solutions repository! I'm Anish, an enthusiastic coder who loves participating in the annual Advent of Code event. This GitHub organization serves as a dedicated hub for maintaining my solutions to the Advent of Code coding puzzles. Here, you'll find repositories for each year's challenges, showcasing my progress and problem-solving skills.
